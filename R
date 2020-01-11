@@ -1,1 +1,0 @@
-../../bog/medicinsk_statistik/_stat4med/R
