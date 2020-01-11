@@ -1,1 +1,10 @@
-../../bog/medicinsk_statistik/_stat4med/DESCRIPTION
+Package: stat4med
+Title: Datasets for the "Statistik for Medicinere" Book
+Version: 0.0.0.9000
+Authors@R: person("Claus", "Ekstrøm", email = "ekstrom@sund.ku.dk", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.5.1)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
